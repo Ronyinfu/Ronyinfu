@@ -42,9 +42,12 @@
 
 
 <p align="center" style="background-color:yellow; padding-top:5px;">
- <a href=""><img src="https://i.ibb.co/tXhy23t/github.png" alt="GitHub" width='40px' targer="https://github.com/Ronyinfu"></a>
+ <a href="https://github.com/Ronyinfu"><img src="https://i.ibb.co/tXhy23t/github.png" alt="GitHub" width='40px' targer="blank"></a>
+  <a href=""><img src="https://i.ibb.co/0YMdFJz/linkedin.png" alt="LinkedIn" width='40px' targer="blank"></a>
  <a href=""><img src="https://i.ibb.co/sJQ1pgn/twitter.png" alt="Twitter" width='40px' targer="blank"></a>
- <a href=""><img src="https://i.ibb.co/0YMdFJz/linkedin.png" alt="LinkedIn" width='40px' targer="blank"></a>
- <a href=""><img src="https://i.ibb.co/5My5Mft/website.png" alt="website" width='40px' targer="blank"></a>
+  <a href=""><img src="https://i.ibb.co/0YMdFJz/linkedin.png" alt="LinkedIn" width='40px' targer="blank"></a>
+  <a href=""><img src="https://i.ibb.co/9wNQ99t/dribbble.png" alt="Dribbble" border="0"></a>
+  <a href=""><img src="https://i.ibb.co/WxsR6TZ/225097.png" alt="Behance" border="0"></a>
+  <a href=""><img src="https://i.ibb.co/5My5Mft/website.png" alt="website" width='40px' targer="blank"></a>
 </p>
 
