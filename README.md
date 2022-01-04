@@ -40,6 +40,9 @@
 <br>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronyinfu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronyinfu)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/ronyinfu)
 
 
 
