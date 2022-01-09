@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center"> flutter developer,ui ux designer and youtube content creator  from Bangladesh</h3>
+<h3 align="center"> ui ux designer,flutter developer and youtube content creator  from Bangladesh</h3>
 
 
 
