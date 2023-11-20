@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center"> youtube content creator,flutter developer and motion graphics video editor from Bangladesh</h3>
+<h3 align="center"> YouTube content creator, flutter developer, and video editor from Bangladesh</h3>
 
 
 
